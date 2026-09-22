@@ -1,0 +1,17 @@
+{
+  "name": "돈사 투약 계산기",
+  "short_name": "투약계산기",
+  "description": "돼지 사양단계별 항생제 사료·음수 첨가 및 주사 용량 계산기",
+  "start_url": "dosecalc.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f4ee",
+  "theme_color": "#3d6b52",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
